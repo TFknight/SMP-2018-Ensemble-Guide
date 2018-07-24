@@ -1,7 +1,7 @@
 # SMP2018 (1st prize)-Ensemble-Guide
 
 A combination of Model Ensembling methods that is extremely useful for increasing accuracy of this contest.
-</br >Ｍｏｒｅ details see [Entire project](https://github.com/Quincy1994/smp2018)
+</br >Ｍｏｒｅ details see [Entire Ｐroject](https://github.com/Quincy1994/smp2018)
 
 ## Task description
 Given an article, we need to create algorithms that judge types of authors (automatic summary, machine translation, robot writer or human writer). 
