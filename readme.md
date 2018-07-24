@@ -34,6 +34,6 @@ Performing the Blending method on the stitched probability vector.
 
 ## 4.Acknowledgment
 Thanks for all the efforts of my teammates in `GDUFS-iiip` 
-We hope that more people will join in our labs: `Data Mining Lab in GDUFS(广外数据挖掘实验室）`
+</br> We hope that more people will join in our labs: `Data Mining Lab in GDUFS(广外数据挖掘实验室）`
 
 
