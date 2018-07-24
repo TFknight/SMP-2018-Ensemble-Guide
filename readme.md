@@ -2,7 +2,7 @@
 
 A combination of Model Ensembling methods that is extremely useful for increasing accuracy of this contest.
 
-# Task description
+## Task description
 Given an article, we need to create algorithms that judge types of authors (automatic summary, machine translation, robot writer or human writer). 
 More details see [SMP EUPT 2018](https://www.biendata.com/competition/smpeupt2018/)
 
@@ -19,7 +19,7 @@ We have improved the traditional [Stacking](https://zhuanlan.zhihu.com/p/2689073
     $ python3 smp_sta_all_vec.py
 Performing the Blending method on the stitched probability vector.
 
-    $ python3 python3 smp_lgb_blending.py
+    $ python3 smp_lgb_blending.py
 
 
 ## 3.Parameter Description
