@@ -1,5 +1,5 @@
 # SMP2018 (1st prize)-Ensemble-Guide
-=====================
+
 A combination of Model Ensembling methods that is extremely useful for increasing accuracy of this contest.
 
 # Task description
